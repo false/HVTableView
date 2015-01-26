@@ -25,12 +25,12 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT (example)"
 
-  s.author             = { "xerxes235" => "xerxes235@yahoo.com" }
+  s.author       = { "xerxes235" => "xerxes235@yahoo.com" }
 
   s.platform     = :ios, "8.1"
 
   s.source       = { :git => "https://github.com/e1evenli/HVTableView.git", :tag => "0.0.1" }
 
-  s.source_files  = "HVTableView/HRVTableView/HVTableView.{h,m}"
+  s.source_files  = "HRVTableView/HVTableView.{h,m}"
 
 end
