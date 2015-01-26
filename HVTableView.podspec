@@ -31,6 +31,6 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/e1evenli/HVTableView.git", :tag => "0.0.1" }
 
-  s.source_files  = "HRVTableView/HRVTableView.{h,m}"
+  s.source_files  = "HVTableView/HRVTableView/HVTableView.{h,m}"
 
 end
