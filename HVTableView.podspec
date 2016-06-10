@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/xerxes235/HVTableView"
 
-  s.license      = "MIT (example)"
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author       = { "xerxes235" => "xerxes235@yahoo.com" }
 
